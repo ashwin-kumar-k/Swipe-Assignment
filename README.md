@@ -94,4 +94,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🙋‍♂️ Author
 
-Your Name - Ashwin Kumar K (ashwink.career@gmail.com)
+Ashwin Kumar K (ashwink.career@gmail.com)
